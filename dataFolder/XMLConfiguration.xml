@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <GuestRequestKeySeq>10000009</GuestRequestKeySeq>
+  <HostingUnitKeySeq>10000006</HostingUnitKeySeq>
+  <OrderKeySeq>10000026</OrderKeySeq>
+  <HostKeySeq>10000000</HostKeySeq>
+  <Manager>309090</Manager>
+  <Fee>10</Fee>
+</Configuration>

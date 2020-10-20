@@ -1,0 +1,71 @@
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\bin\Debug\DAL.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\bin\Debug\DAL.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\bin\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\bin\Debug\DS.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\bin\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\bin\Debug\DS.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\bin\Debug\DS.dll.config
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\obj\Debug\DAL.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\new\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\new\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\new\DAL\bin\Debug\BE.dll
+C:\Users\user\Desktop\new\DAL\bin\Debug\DS.dll
+C:\Users\user\Desktop\new\DAL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\new\DAL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\new\DAL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\new\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\new\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\new\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\new\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\new\DAL\obj\Debug\DAL.pdb
+C:\Users\user\OneDrive\Desktop\c# project\DAL\bin\Debug\DAL.dll
+C:\Users\user\OneDrive\Desktop\c# project\DAL\bin\Debug\DAL.pdb
+C:\Users\user\OneDrive\Desktop\c# project\DAL\bin\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\c# project\DAL\bin\Debug\DS.dll
+C:\Users\user\OneDrive\Desktop\c# project\DAL\bin\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\c# project\DAL\bin\Debug\DS.pdb
+C:\Users\user\OneDrive\Desktop\c# project\DAL\bin\Debug\DS.dll.config
+C:\Users\user\OneDrive\Desktop\c# project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\c# project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\c# project\DAL\obj\Debug\DAL.dll
+C:\Users\user\OneDrive\Desktop\c# project\DAL\obj\Debug\DAL.pdb

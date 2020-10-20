@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="UI.Guestrequest"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <Style
+            TargetType="TextBlock">
+            <Setter Property="Foreground"
+                    Value="Black" />
+            <Setter Property="FontFamily"
+                   Value ="Segoe Print"/>
+            <Setter Property="FontWeight"
+                   Value ="Bold"/>
+            <Setter Property="FontSize"
+                    Value="14"/>
+        </Style>
+    </UserControl.Resources>
+    <Grid x:Name="MYGRID">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="112*"/>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="643*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="view/g.jpg"></ImageBrush>
+        </Grid.Background>
+
+        <Button x:Name="backgu" Foreground="BlanchedAlmond" Content="Back" HorizontalAlignment="Left" Margin="52,16,0,0" VerticalAlignment="Top" Width="75"  FontFamily="Segoe Print" FontSize="14" FontWeight="Bold" RenderTransformOrigin="0.502,0.177" Grid.ColumnSpan="2"  >
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center"   Margin="0,10,-52,0" Height="440" Width="852" Grid.ColumnSpan="3">
+
+            <TextBlock x:Name="pn" Foreground="BlanchedAlmond" FontSize=" 16" HorizontalAlignment="Left" Margin="10,116,0,0" TextWrapping="Wrap" Text="Private Name: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock x:Name="fn" Foreground="BlanchedAlmond"  FontSize=" 16"  HorizontalAlignment="Left" Margin="10,161,0,0" TextWrapping="Wrap" Text="Family Name: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock x:Name="ma" Foreground="BlanchedAlmond"  FontSize=" 16"  HorizontalAlignment="Left" Margin="10,213,0,0" TextWrapping="Wrap" Text="Mail Adress: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock Foreground="BlanchedAlmond" FontSize="16"  HorizontalAlignment="Left" Margin="12,264,0,0" TextWrapping="Wrap" Text="Entry Date: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock Foreground="BlanchedAlmond"  FontSize=" 16"  HorizontalAlignment="Left" Margin="10,314,0,0" TextWrapping="Wrap" Text="Release Date: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock Foreground="BlanchedAlmond"  FontSize=" 16"  HorizontalAlignment="Left" Margin="12,363,0,0" TextWrapping="Wrap" Text="Area: " VerticalAlignment="Top" Height="30" Width="106" RenderTransformOrigin="0.491,3"/>
+            <TextBlock Foreground="BlanchedAlmond" FontSize=" 16"  HorizontalAlignment="Left" Margin="413,173,0,0" TextWrapping="Wrap" Text="Type: " VerticalAlignment="Top" Height="30" Width="106" FontFamily="Segoe Print"/>
+            <TextBlock Foreground="BlanchedAlmond" FontSize=" 16"  HorizontalAlignment="Left" Margin="413,219,0,0" TextWrapping="Wrap" Text="Adults: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock Foreground="BlanchedAlmond" FontSize=" 16"  HorizontalAlignment="Left" Margin="409,265,0,0" TextWrapping="Wrap" Text="Children: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock Foreground="BlanchedAlmond" FontSize=" 16"  HorizontalAlignment="Left" Margin="413,308,0,0" TextWrapping="Wrap" Text="Pool: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock Foreground="BlanchedAlmond" FontSize=" 16"  HorizontalAlignment="Left" Margin="409,345,0,0" TextWrapping="Wrap" Text="Jacuzzi: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock Foreground="BlanchedAlmond" FontSize=" 16"  HorizontalAlignment="Left" Margin="407,381,0,0" TextWrapping="Wrap" Text="Garden: " VerticalAlignment="Top" Height="30" Width="106"/>
+            <TextBlock Foreground="BlanchedAlmond" FontSize=" 16"  HorizontalAlignment="Left" Margin="408,130,0,0" TextWrapping="Wrap" Text="ChildrensAttractions: " VerticalAlignment="Top" Height="35" Width="160" RenderTransformOrigin="0.615,0.562"/>
+            <TextBox x:Name="Privet" Foreground="Black"  HorizontalAlignment="Left" Height="23" Margin="144,121,0,0" TextWrapping="Wrap" Text="{Binding Path=PrivateName}" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="Famliy" Foreground="Black" HorizontalAlignment="Left" Height="23" Margin="144,168,0,0" TextWrapping="Wrap" Text="{Binding Path=FamilyName}"  VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="Mail" Foreground="Black" HorizontalAlignment="Left" Height="23" Margin="144,213,0,0" TextWrapping="Wrap" Text="{Binding Path=MailAddress}" VerticalAlignment="Top" Width="120"/>
+            <ComboBox x:Name="AREA"  SelectedItem="{Binding Path=Area}" HorizontalAlignment="Left" Margin="144,371,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.464,1.154" >
+                <ComboBox.Background>
+                    <ImageBrush/>
+                </ComboBox.Background>
+            </ComboBox>
+            <DatePicker x:Name="Entery"   SelectedDate="{Binding Path=EnteryDate}" HorizontalAlignment="Right" Margin="0,267,586,0" VerticalAlignment="Top" Height="23" Width="120" RenderTransformOrigin="0.515,0.933"/>
+            <DatePicker x:Name="Releas"  SelectedDate="{Binding Path = ReleaseDate}" HorizontalAlignment="Left" Margin="144,322,0,0" VerticalAlignment="Top" Height="24" Width="122" RenderTransformOrigin="0.485,3.232"/>
+            <ComboBox x:Name="TAYP" Foreground="Black" SelectedItem="{Binding Path=Type}" HorizontalAlignment="Left" Margin="596,177,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.484,1.279"/>
+            <ComboBox x:Name="POOL" Foreground="Black" SelectedItem="{Binding Path=Pool}" HorizontalAlignment="Left" Margin="596,303,0,0" VerticalAlignment="Top" Width="120" />
+            <ComboBox x:Name="JACUZZI" Foreground="Black" SelectedItem="{Binding Path=Jacuzzi}" HorizontalAlignment="Left" Margin="598,346,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.515,2.236"/>
+            <ComboBox x:Name="GARDEN" Foreground="Black" SelectedItem="{Binding Path=Garden}" HorizontalAlignment="Left" Margin="600,391,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.505,2.689" />
+            <ComboBox x:Name="ChildrensAttractions"  SelectedItem="{Binding Path=ChildrensAttractions}" HorizontalAlignment="Left" Margin="597,133,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.495,2.295" />
+            <TextBox x:Name="Adults" Foreground="Black" HorizontalAlignment="Left" Height="23" Margin="596,220,0,0" TextWrapping="Wrap" Text="{Binding Path=Adults}" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="Children" Foreground="Black" HorizontalAlignment="Left" Height="23" Margin="596,263,0,0" TextWrapping="Wrap" Text="{Binding Path=Children}" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.597,0.46"/>
+            <TextBlock HorizontalAlignment="Left" Margin="47,0,0,0" TextWrapping="Wrap" Foreground="BlanchedAlmond" Text="Find your dream vacation:" VerticalAlignment="Top" Height="75" Width="669" FontFamily="Segoe Print" FontSize="48" FontWeight="Bold" FontStyle="Italic"/>
+            <Button Foreground="BlanchedAlmond"  FontSize=" 16" FontFamily="Segoe Print"  BorderBrush="BlanchedAlmond" Content="ORDER" HorizontalAlignment="Left" Margin="311,419,0,-8" Width="75" Click="Button_Click">
+                <Button.Background>
+                    <ImageBrush/>
+                </Button.Background>
+            </Button>
+        </Grid>
+    </Grid>
+</UserControl>

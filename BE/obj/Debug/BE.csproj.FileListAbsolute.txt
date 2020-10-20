@@ -1,0 +1,29 @@
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BE\bin\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BE\bin\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BE\obj\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BE\obj\Debug\BE.pdb
+C:\Users\user\Desktop\new\BE\bin\Debug\BE.dll
+C:\Users\user\Desktop\new\BE\bin\Debug\BE.pdb
+C:\Users\user\Desktop\new\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\Desktop\new\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\new\BE\obj\Debug\BE.dll
+C:\Users\user\Desktop\new\BE\obj\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\c# project\BE\bin\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\c# project\BE\bin\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\c# project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\c# project\BE\obj\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\c# project\BE\obj\Debug\BE.pdb

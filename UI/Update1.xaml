@@ -1,0 +1,65 @@
+﻿<Window x:Class="UI.Update1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="Update1" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="mystyle"
+            TargetType="Control"  >
+            <Setter Property="Foreground"
+                    Value="Black"/>
+            <Setter Property="FontFamily"
+                   Value ="Segoe Print"/>
+            <Setter Property="FontWeight"
+                   Value ="Bold"/>
+            <Setter Property="FontSize"
+                    Value="14"/>
+        </Style>
+    </Window.Resources>
+    <Grid x:Name="up"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,0,0,10" RenderTransformOrigin="0.601,0.41" Width="800" Height="450">
+        <Grid.Background>
+            <ImageBrush ImageSource="view/huv.jpg" ></ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="112*"/>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="643*"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="hostingkey"  HorizontalAlignment="Center"  VerticalAlignment="Bottom" Visibility="Visible" Margin="33,0,137,273" Height="127" Width="630" Grid.ColumnSpan="3">
+            
+            <TextBlock HorizontalAlignment="Left" Foreground="BlanchedAlmond"  Height="22" Margin="152,41,0,0" TextWrapping="Wrap" Text="Enter Hosting Unit Key" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5" FontFamily="Segoe Print" FontSize="14" FontWeight="Bold"/>
+            <PasswordBox x:Name="hostingunitk" Style="{StaticResource mystyle }" HorizontalAlignment="Left" Height="22" Margin="307,41,0,0"   VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5"/>
+            <Button Content="Update" Foreground="BlanchedAlmond" Style="{StaticResource mystyle }" HorizontalAlignment="Left" Margin="481,43,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.5,0.5" Click="Update_Click">
+                <Button.Background>
+                    <ImageBrush/>
+                </Button.Background>
+            </Button>
+        </Grid>
+        <Grid x:Name="UpdatHosting" Visibility="Collapsed"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,10" Width="790" Height="430" Grid.ColumnSpan="3">
+            
+            <TextBlock HorizontalAlignment="Left"  Foreground="BlanchedAlmond"  Margin="57,71,0,0" TextWrapping="Wrap" Text="HostingUnitName:" VerticalAlignment="Top" FontFamily="Segoe Print" FontSize="14"/>
+            <TextBlock HorizontalAlignment="Left"  Foreground="BlanchedAlmond" Margin="399,0,0,336" TextWrapping="Wrap" Text="Price:" VerticalAlignment="Bottom" Height="23" RenderTransformOrigin="0.5,0.5" FontFamily="Segoe Print" FontSize="14" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left"  Foreground="BlanchedAlmond" Margin="399,225,0,0" TextWrapping="Wrap" Text="NumOfVacationers:" VerticalAlignment="Top" FontFamily="Segoe Print" FontSize="14" RenderTransformOrigin="0.486,0.584" Width="147"/>
+            <ComboBox x:Name="Area" Foreground="Black" Style="{StaticResource mystyle}" SelectedItem="{Binding Area}" HorizontalAlignment="Left" Margin="584,123,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.175,0.443"/>
+            <TextBlock HorizontalAlignment="Left" Height="23" Foreground="BlanchedAlmond" Margin="399,122,0,0" TextWrapping="Wrap" Text="Area:" VerticalAlignment="Top" Width="39" RenderTransformOrigin="0.287,1.011" FontWeight="Bold" FontFamily="Segoe Print" FontSize="14"/>
+            <TextBlock  HorizontalAlignment="Left" Margin="399,165,0,0"  TextWrapping="Wrap" Text="Type:" VerticalAlignment="Top" FontSize="14" Foreground="BlanchedAlmond" FontFamily="Segoe Print" FontWeight="Bold" RenderTransformOrigin="-0.723,0.546"/>
+            <ComboBox x:Name="Type" Foreground="Black" Style="{StaticResource mystyle}" SelectedItem="{Binding Type}" HorizontalAlignment="Left" Margin="584,167,0,0"  VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.561,0.576"/>
+            <CheckBox x:Name="jacuzzi"  Style="{StaticResource mystyle}" Content="Jacuzzi" IsChecked="{Binding Jacuzzi}" Foreground="BlanchedAlmond" HorizontalAlignment="Left" Margin="57,167,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Segoe Print"/>
+            <CheckBox x:Name="Pool"  Style="{StaticResource mystyle}" Content="Pool" IsChecked="{Binding Pool}" Foreground="BlanchedAlmond"  HorizontalAlignment="Left" Margin="57,122,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Segoe Print"/>
+            <CheckBox x:Name="Garden"  Style="{StaticResource mystyle}" Content="Garden" IsChecked="{Binding Garden}" Foreground="BlanchedAlmond"  HorizontalAlignment="Left" Margin="54,225,0,0" VerticalAlignment="Top" FontFamily="Segoe Print" FontSize="14"/>
+            <CheckBox x:Name="ChildrensAttractions"  Style="{StaticResource mystyle}" Content="ChildrensAttractions" IsChecked="{Binding ChildrensAttractions}" Foreground="BlanchedAlmond"  HorizontalAlignment="Left" Margin="54,271,0,0" VerticalAlignment="Top" FontFamily="Segoe Print" FontSize="14"/>
+            <TextBox x:Name="HostingUnitName" Foreground="Black" HorizontalAlignment="Left"  Height="23" Margin="207,73,0,0" TextWrapping="Wrap" Text="{Binding HostingUnitName}" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="Price" Foreground="Black" HorizontalAlignment="Left" Height="23" Margin="584,71,0,0" TextWrapping="Wrap" Text="{Binding Price}" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.643,0.539"/>
+            <TextBox x:Name="NumOfVacationers" Foreground="Black" HorizontalAlignment="Left" Height="23" Margin="584,225,0,0" TextWrapping="Wrap" Text="{Binding NumOfVacationers}" VerticalAlignment="Top" Width="120"/>
+            <Button Content="Update" BorderBrush="BlanchedAlmond" Foreground="BlanchedAlmond" HorizontalAlignment="Left" Margin="307,328,0,0" VerticalAlignment="Top" Width="96" Height="34" Click="Updat">
+                <Button.Background>
+                    <ImageBrush/>
+                </Button.Background>
+            </Button>
+        </Grid>
+
+    </Grid>
+</Window>

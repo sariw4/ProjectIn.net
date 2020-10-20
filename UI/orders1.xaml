@@ -1,0 +1,87 @@
+﻿<Window x:Class="UI.orders1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="orders1" Height="450" Width="800">
+    <Grid  Margin="10">
+        <Grid.Background>
+            <ImageBrush ImageSource="view/huv.jpg" Opacity="0.9" ></ImageBrush>
+        </Grid.Background>
+        <TabControl HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="770">
+            <TabControl.Background>
+                <ImageBrush/>
+            </TabControl.Background>
+            <TabItem Header="Order list" Foreground="BlanchedAlmond" FontFamily="Segoe Print">
+                <TabItem.Background>
+                    <ImageBrush/>
+                </TabItem.Background>
+                <DataGrid x:Name="Orderlist" FontFamily="Segoe Print" Foreground="Black"  IsReadOnly="True" ItemsSource="{Binding}" HorizontalAlignment="Left" Margin="0,3,0,55" Width="764">
+                    <DataGrid.Background>
+                        <ImageBrush/>
+                    </DataGrid.Background>
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn >
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate>
+                                    <Button Content="More Details" Click="more_details_clickU"  Margin="3" Foreground="Black" Background="BlanchedAlmond" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <DataGridTemplateColumn >
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate>
+                                    <Button Content="Update" Click="Update_click" Foreground="Black"   Margin="3" Background="BlanchedAlmond" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+
+            <TabItem Header="Guest request list" Foreground="BlanchedAlmond" FontFamily="Segoe Print">
+                <TabItem.Background>
+                    <ImageBrush/>
+                </TabItem.Background>
+                <Grid Height="400" VerticalAlignment="Bottom" Margin="0,-5,0,-8">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="95*"/>
+                        <ColumnDefinition Width="96*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="Guestlist" IsReadOnly="True" FontFamily="Segoe Print" Foreground="Black"   ItemsSource="{Binding}" HorizontalAlignment="Left" Height="287" Margin="1,71,0,0" VerticalAlignment="Top" Width="763" FontSize="14" FontWeight="Bold" Grid.ColumnSpan="2">
+                        <DataGrid.Background>
+                            <ImageBrush/>
+                        </DataGrid.Background>
+                        <DataGrid.Columns>
+                            <DataGridTemplateColumn >
+                                <DataGridTemplateColumn.CellTemplate >
+                                    <DataTemplate>
+                                        <Button Content="More Details" Click="more_details_clickG"  Margin="3" Foreground="Black" Background="BlanchedAlmond" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <DataGridTemplateColumn >
+                                <DataGridTemplateColumn.CellTemplate >
+                                    <DataTemplate>
+                                        <Button Content="Add"  Click="Add_Order_click" Foreground="Black" Margin="3" Background="BlanchedAlmond" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <TextBlock TextWrapping="Wrap"  FontFamily="Segoe Print" FontSize="14" FontWeight="Bold" Text="Options:" Width="100" Margin="10,12,269.868,350" RenderTransformOrigin="0.5,0.5"/>
+                    <ComboBox x:Name="combo_gues" FontFamily="Segoe Print" FontSize="14" FontWeight="Bold" Height="30" SelectionChanged="Combo_guest__SelectionChanged" Margin="97,10,34.868,344" RenderTransformOrigin="0.432,2.65"/>
+                    <TextBlock  Height="20" FontFamily="Segoe Print" FontSize="14" FontWeight="Bold" TextWrapping="Wrap" Text="sub group:" Width="100" Margin="70.132,10,214,354" Grid.Column="1" />
+                    <ComboBox  x:Name="combo_gues_name" FontFamily="Segoe Print" FontSize="14" FontWeight="Bold" Height="30" SelectionChanged="Combo_guest_name_SelectionChanged" Width="100" Margin="198.132,10,86,344" RenderTransformOrigin="0.432,2.65" Grid.Column="1"/>
+
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+
+</Window>

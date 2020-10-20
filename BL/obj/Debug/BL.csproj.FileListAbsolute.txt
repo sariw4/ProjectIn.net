@@ -1,0 +1,89 @@
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.dll.config
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BE.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.dll.config
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BE.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.dll.config
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BL.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BE.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.dll
+C:\Users\user\Desktop\project\31.1\28.1\project01_0568_1885_dotNet5780\BL\obj\Debug\BL.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\BL.dll.config
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\BL.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\BL.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\DAL.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\DAL.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\obj\Debug\BL.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\obj\Debug\BL.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\DS.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\DS.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\BL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\new\BL\bin\Debug\BL.dll.config
+C:\Users\user\Desktop\new\BL\bin\Debug\BL.dll
+C:\Users\user\Desktop\new\BL\bin\Debug\BL.pdb
+C:\Users\user\Desktop\new\BL\bin\Debug\BE.dll
+C:\Users\user\Desktop\new\BL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\new\BL\bin\Debug\DS.dll
+C:\Users\user\Desktop\new\BL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\new\BL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\new\BL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\new\BL\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Desktop\new\BL\obj\Debug\BL.dll
+C:\Users\user\Desktop\new\BL\obj\Debug\BL.pdb
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\BL.dll.config
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\BL.dll
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\BL.pdb
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\DAL.dll
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\DS.dll
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\DAL.pdb
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\DS.pdb
+C:\Users\user\OneDrive\Desktop\c# project\BL\bin\Debug\DS.dll.config
+C:\Users\user\OneDrive\Desktop\c# project\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\c# project\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\c# project\BL\obj\Debug\BL.dll
+C:\Users\user\OneDrive\Desktop\c# project\BL\obj\Debug\BL.pdb

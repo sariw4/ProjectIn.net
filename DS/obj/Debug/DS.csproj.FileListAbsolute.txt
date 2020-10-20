@@ -1,0 +1,49 @@
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\DS.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\DS.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\BE.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\BE.pdb
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.dll
+C:\Users\user\Desktop\פרויקט\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\DS.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\DS.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\BE.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\bin\Debug\BE.pdb
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.dll
+C:\Users\user\Desktop\project\gg\28.1\project01_0568_1885_dotNet5780\DS\obj\Debug\DS.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\bin\Debug\DS.dll.config
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\bin\Debug\DS.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\bin\Debug\DS.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\bin\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\bin\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\obj\Debug\DS.dll
+C:\Users\user\OneDrive\Desktop\פרויקט\3.2\DS\obj\Debug\DS.pdb
+C:\Users\user\Desktop\new\DS\bin\Debug\DS.dll.config
+C:\Users\user\Desktop\new\DS\bin\Debug\DS.dll
+C:\Users\user\Desktop\new\DS\bin\Debug\DS.pdb
+C:\Users\user\Desktop\new\DS\bin\Debug\BE.dll
+C:\Users\user\Desktop\new\DS\bin\Debug\BE.pdb
+C:\Users\user\Desktop\new\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\new\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\new\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\user\Desktop\new\DS\obj\Debug\DS.dll
+C:\Users\user\Desktop\new\DS\obj\Debug\DS.pdb
+C:\Users\user\OneDrive\Desktop\c# project\DS\bin\Debug\DS.dll.config
+C:\Users\user\OneDrive\Desktop\c# project\DS\bin\Debug\DS.dll
+C:\Users\user\OneDrive\Desktop\c# project\DS\bin\Debug\DS.pdb
+C:\Users\user\OneDrive\Desktop\c# project\DS\bin\Debug\BE.dll
+C:\Users\user\OneDrive\Desktop\c# project\DS\bin\Debug\BE.pdb
+C:\Users\user\OneDrive\Desktop\c# project\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\c# project\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\c# project\DS\obj\Debug\DS.dll
+C:\Users\user\OneDrive\Desktop\c# project\DS\obj\Debug\DS.pdb
